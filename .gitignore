@@ -1,0 +1,6 @@
+# Archivos basura de Mac
+.DS_Store
+__MACOSX/
+
+# Configuración de VS Code
+.vscode/
