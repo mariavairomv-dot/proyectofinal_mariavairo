@@ -1,4 +1,5 @@
 <?php
+session_start();
 include "includes/conexion.php";
 
 // 1. Si alguien abre este archivo sin llenar el formulario, lo regresamos
